@@ -2,7 +2,7 @@
 
 *This is a second page.*
 
-![Apple](https://www.apple.com)
+<https://www.apple.com>
 
 
 ``int main()
@@ -17,7 +17,7 @@
 2. Eggs
 3. Cheese
 
-..* Study for class.
+* Study for class.
 
 
 | Cars | Buses | Trucks |
